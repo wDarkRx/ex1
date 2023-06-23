@@ -19,18 +19,18 @@
         <a>HTML (abreviação para a expressão inglesa HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto") 
             é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por
              navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.</a>
-             <p><a href="#texto1">Voltar</a></p>
+             <p><a href="#">Voltar</a></p>
              <hr/>
     <h2 id="texto2">Texto 2</h2>
         <a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt deleniti quidem pariatur doloribus voluptate quo provident
              ipsam perferendis voluptatem dicta, repellat labore. Maxime veritatis neque expedita aut reprehenderit inventore nesciunt.</a>
-             <p><a href="#texto1">Voltar</a></p>
+             <p><a href="#">Voltar</a></p>
              <hr/>
     <h3 id="texto3">Texto 3</h3>         
         <a><ul>
             <li>Referencia 1</li>
             <li>Referencia 2</li>
             </ul></a>
-            <p><a href="#texto1">Voltar</a></p>
+            <p><a href="#">Voltar</a></p>
 </body>
 </html>
