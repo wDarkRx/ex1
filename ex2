@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="cabelo">
+        <ul>
+            <li>Cabelo</li>
+        </ul>
+        <img src="https://cdn-icons-png.flaticon.com/512/40/40599.png" height="150px" width="150px">
+        <p>Na tesoura ou máquina, como o cliente preferir</p>
+        <P>R$ 25,00</P>
+    </div>
+    <div class="barba">
+        <ul>
+            <li>Barba</li>
+        </ul>
+        <img src="https://media.istockphoto.com/id/1024489010/pt/vetorial/beard-icon-vector.jpg?s=612x612&w=is&k=20&c=QeI2W8oJ9sEn1pha6CW7U1zvj0US64SUwOkM_oWwwYI=" height="150px" width="150px">
+        <p>Na tesoura ou máquina, como o cliente preferir</p>
+        <P>R$ 25,00</P>
+    </div>
+    <div class="cabelobarba">
+        <ul>
+            <li>Cabelo + Barba</li>
+        </ul>
+        <img src="https://cdn-icons-png.flaticon.com/512/1995/1995573.png" height="150px" width="150px">
+        <p>Na tesoura ou máquina, como o cliente preferir</p>
+        <P>R$ 25,00</P>
+    </div>
+    <a href="#">Voltar</a>
+</body>
+</html>
